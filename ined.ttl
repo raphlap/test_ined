@@ -12275,12 +12275,12 @@
   skos:inScheme <http://thesaurus.web.ined.fr/demovoc> ;
   skos:topConceptOf <http://thesaurus.web.ined.fr/demovoc> ;
   skos:prefLabel "SERBIE-MONTENEGRO"@fr, "SERBIA-MONTENEGRO"@en ;
-  skos:scopeNote "Après la sécession de la Croatie, de la Slovénie, de la 
+  skos:scopeNote """Après la sécession de la Croatie, de la Slovénie, de la 
 Bosnie-Herzégovine et de la Macédoine, est proclamée le 27-04-1992 la République 
 fédérale de Yougoslavie comprenant la Serbie et le Monténégro. La "Communauté 
 d'Etats Serbie et Monténégro" (Drzavna zajednica Srbija i Crna) a officiellement 
 vu le jour le 4 février 2003,  Le nouvel Etat ne fait plus référence à la 
-"Yougoslavie". Le 21 mai 2006, le Montenegro devient indépendant par référendum"@fr .
+"Yougoslavie". Le 21 mai 2006, le Montenegro devient indépendant par référendum"""@fr .
 
 <http://thesaurus.web.ined.fr/demovoc/concept1725>
   a skos:Concept ;
